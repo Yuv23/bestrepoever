@@ -2,4 +2,5 @@
 
 test
 
-merge conflict 1
+Merge conflict branch 2
+
